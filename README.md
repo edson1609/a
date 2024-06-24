@@ -644,9 +644,7 @@ CREATE TABLE Vendas (
     ```
 24. Corrija a seguinte consulta:
     ```sql
-    UPDATE Vendas SET Quantidade
-
- = 18 WHERE VendaID  = 7
+    UPDATE Vendas SET Quantidade= 18 WHERE VendaID  = 7
     ```
 25. Corrija a seguinte consulta:
     ```sql
