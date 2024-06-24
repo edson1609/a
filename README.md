@@ -819,9 +819,7 @@ CREATE TABLE Vendas (
 9. Escreva uma consulta SQL para selecionar as colunas "VendaID", "PrecoUnitario" da tabela "Vendas" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 7 linhas, a partir da 2ª linha.
 10. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 4 linhas, a partir da 6ª linha.
 11. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto" da tabela "Produtos" e ordená-las pelo campo "NomeProduto" em ordem crescente, limitando o resultado a 11 linhas, a partir da 8ª linha.
-12. Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda" da tabela "Vendas" e ordená-las pelo campo "
-
-DataVenda" em ordem decrescente, limitando o resultado a 5 linhas, a partir da 7ª linha.
+12. Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda" da tabela "Vendas" e ordená-las pelo campo "DataVenda" em ordem decrescente, limitando o resultado a 5 linhas, a partir da 7ª linha.
 13. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 3 linhas, a partir da 9ª linha.
 14. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "PrecoUnitario" da tabela "Produtos" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 4 linhas, a partir da 11ª linha.
 15. Escreva uma consulta SQL para selecionar as colunas "VendaID", "Quantidade" da tabela "Vendas" e ordená-las pelo campo "Quantidade" em ordem crescente, limitando o resultado a 6 linhas, a partir da 3ª linha.
@@ -857,9 +855,7 @@ DataVenda" em ordem decrescente, limitando o resultado a 5 linhas, a partir da 7
 45. Escreva uma consulta SQL para selecionar as colunas "VendaID", "PrecoUnitario" da tabela "Vendas" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 10 linhas, a partir da 30ª linha.
 46. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 4 linhas, a partir da 31ª linha.
 47. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto" da tabela "Produtos" e ordená-las pelo campo "NomeProduto" em ordem crescente, limitando o resultado a 5 linhas, a partir da 32ª linha.
-48.
-
- Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda" da tabela "Vendas" e ordená-las pelo campo "DataVenda" em ordem decrescente, limitando o resultado a 8 linhas, a partir da 33ª linha.
+48. Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda" da tabela "Vendas" e ordená-las pelo campo "DataVenda" em ordem decrescente, limitando o resultado a 8 linhas, a partir da 33ª linha.
 49. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 7 linhas, a partir da 34ª linha.
 50. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "PrecoUnitario" da tabela "Produtos" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 6 linhas, a partir da 35ª linha.
 
@@ -899,9 +895,7 @@ DataVenda" em ordem decrescente, limitando o resultado a 5 linhas, a partir da 7
 32. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto", "PrecoUnitario" da tabela "Produtos" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 7 linhas.
 33. Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda", "Desconto" da tabela "Vendas" e ordená-las pelo campo "Desconto" em ordem decrescente, limitando o resultado a 5 linhas.
 34. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome", "Email" da tabela "Clientes" e ordená-las pelo campo "Email" em ordem crescente, limitando o resultado a 12 linhas.
-35. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto", "QuantidadeEmEstoque" da tabela "Produtos" e ordená-las pelo campo "NomeProduto" em ordem crescente, limitando o resultado
-
- a 10 linhas.
+35. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto", "QuantidadeEmEstoque" da tabela "Produtos" e ordená-las pelo campo "NomeProduto" em ordem crescente, limitando o resultado a 10 linhas.
 36. Escreva uma consulta SQL para selecionar as colunas "VendaID", "Quantidade", "PrecoTotal" da tabela "Vendas" e ordená-las pelo campo "Quantidade" em ordem decrescente, limitando o resultado a 4 linhas.
 37. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome", "DataNascimento" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 9 linhas.
 38. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto", "Peso" da tabela "Produtos" e ordená-las pelo campo "NomeProduto" em ordem decrescente, limitando o resultado a 11 linhas.
@@ -953,9 +947,7 @@ DataVenda" em ordem decrescente, limitando o resultado a 5 linhas, a partir da 7
 31. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Nome" contenha a letra "r" e tenha exatamente 5 caracteres.
 32. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Idade" seja entre 22 e 29 e o campo "Cidade" seja "Florianópolis".
 33. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Nome" não contenha a letra "i" e tenha pelo menos 6 caracteres.
-34. Escreva uma
-
- consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Cidade" seja "São Paulo" e o campo "Idade" seja maior que 27.
+34. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Cidade" seja "São Paulo" e o campo "Idade" seja maior que 27.
 35. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Email" contenha "gmail.com" e tenha exatamente 12 caracteres.
 36. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Nome" tenha menos de 4 caracteres e o campo "Cidade" não seja "Rio de Janeiro".
 37. Escreva uma consulta SQL que seleciona todos os registros da tabela "Clientes" onde o campo "Idade" seja menor que 19 ou maior que 45 e o campo "Cidade" seja "Curitiba".
@@ -1008,9 +1000,7 @@ DataVenda" em ordem decrescente, limitando o resultado a 5 linhas, a partir da 7
 31. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "PrecoUnitario" seja entre 50 e 100 e o campo "NomeProduto" não comece com a letra "P".
 32. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "NomeProduto" termine com a letra "o" e o campo "QuantidadeEmEstoque" seja maior que 10.
 33. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "PrecoUnitario" seja maior que 20 e o campo "NomeProduto" tenha mais de 5 caracteres.
-34. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "NomeProduto" conten
-
-ha a letra "e" e tenha menos de 7 caracteres.
+34. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "NomeProduto" contenha a letra "e" e tenha menos de 7 caracteres.
 35. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "QuantidadeEmEstoque" seja menor que 25 e o campo "PrecoUnitario" seja maior que 60.
 36. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "NomeProduto" tenha mais de 8 caracteres e o campo "PrecoUnitario" seja menor que 50.
 37. Escreva uma consulta SQL que seleciona todos os registros da tabela "Produtos" onde o campo "PrecoUnitario" seja maior que 15 e o campo "QuantidadeEmEstoque" seja menor que 10.
@@ -1062,4 +1052,21 @@ ha a letra "e" e tenha menos de 7 caracteres.
 30. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "ClienteID" seja igual a 4 e o campo "PrecoTotal" seja maior que 100.
 31. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "DataVenda" seja menor que '2019-12-31' e o campo "Quantidade" seja menor que 2.
 32. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "PrecoTotal" seja maior que 80 e o campo "ClienteID" seja entre 6 e 12.
-33. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas
+33. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "Quantidade" seja entre 4 e 7 e o campo "ProdutoID" seja menor que 10.
+34. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "PrecoTotal" seja maior que 90 e o campo "DataVenda" seja entre '2022-12-01' e '2023-03-31'.
+35. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "ClienteID" seja igual a 5 e o campo "Quantidade" seja menor que 4.
+36. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "ProdutoID" seja igual a 8 e o campo "PrecoTotal" seja menor que 60.
+37. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "Quantidade" seja maior que 15 e o campo "DataVenda" seja maior que '2023-05-01'.
+38. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "PrecoTotal" seja maior que 400 e o campo "ProdutoID" seja maior que 6.
+39. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "DataVenda" seja maior que '2023-04-01' e o campo "ClienteID" seja maior que 7.
+40. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "PrecoTotal" seja maior que 120 e o campo "Quantidade" seja entre 5 e 10.
+41. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "ClienteID" seja menor que 6 ou o campo "PrecoTotal" seja menor que 30.
+42. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "Quantidade" seja menor que 3 e o campo "ProdutoID" seja menor que 5.
+43. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "DataVenda" seja maior que '2023-06-01' e o campo "PrecoTotal" seja menor que 20.
+44. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "ClienteID" seja igual a 6 e o campo "PrecoTotal" seja maior que 150.
+45. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "Quantidade" seja entre 3 e 5 e o campo "ProdutoID" seja maior que 9.
+46. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "DataVenda" seja menor que '2023-01-01' e o campo "ClienteID" seja igual a 2.
+47. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "PrecoTotal" seja maior que 50 e o campo "Quantidade" seja maior que 2.
+48. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "DataVenda" seja entre '2022-07-01' e '2022-12-31' e o campo "PrecoTotal" seja menor que 40.
+49. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "ClienteID" seja menor que 4 e o campo "ProdutoID" seja menor que 7.
+50. Escreva uma consulta SQL que seleciona todos os registros da tabela "Vendas" onde o campo "Quantidade" seja maior que 8 e o campo "PrecoTotal" seja menor que 150.
