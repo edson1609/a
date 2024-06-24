@@ -777,9 +777,7 @@ CREATE TABLE Vendas (
 20. Escreva uma consulta SQL para selecionar as colunas "VendaID", "PrecoUnitario" da tabela "Vendas" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 2 linhas.
 21. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 12 linhas.
 22. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "NomeProduto" da tabela "Produtos" e ordená-las pelo campo "NomeProduto" em ordem crescente, limitando o resultado a 15 linhas.
-23. Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda" da tabela
-
- "Vendas" e ordená-las pelo campo "DataVenda" em ordem decrescente, limitando o resultado a 20 linhas.
+23. Escreva uma consulta SQL para selecionar as colunas "VendaID", "DataVenda" da tabela"Vendas" e ordená-las pelo campo "DataVenda" em ordem decrescente, limitando o resultado a 20 linhas.
 24. Escreva uma consulta SQL para selecionar as colunas "ClienteID", "Nome" da tabela "Clientes" e ordená-las pelo campo "Nome" em ordem crescente, limitando o resultado a 5 linhas.
 25. Escreva uma consulta SQL para selecionar as colunas "ProdutoID", "PrecoUnitario" da tabela "Produtos" e ordená-las pelo campo "PrecoUnitario" em ordem decrescente, limitando o resultado a 10 linhas.
 26. Escreva uma consulta SQL para selecionar as colunas "VendaID", "Quantidade" da tabela "Vendas" e ordená-las pelo campo "Quantidade" em ordem crescente, limitando o resultado a 3 linhas.
