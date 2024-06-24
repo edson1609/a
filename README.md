@@ -222,9 +222,7 @@ CREATE TABLE Vendas (
     ```
 20. Corrija a seguinte consulta:
     ```sql
-    UPDATE Vendas SET PrecoUnitario = 30.
-
-00 WHERE VendaID = 2
+    UPDATE Vendas SET PrecoUnitario = 30.00 WHERE VendaID = 2
     ```
 21. Corrija a seguinte consulta:
     ```sql
@@ -439,9 +437,7 @@ CREATE TABLE Vendas (
     ```
 23. Corrija a seguinte consulta:
     ```sql
-    INSERT INTO Vendas (ClienteID, ProdutoID, Quantidade, PrecoUnitario, DataVenda VALUES (4, 5, 3, 35.00, '2023-06-
-
-01');
+    INSERT INTO Vendas (ClienteID, ProdutoID, Quantidade, PrecoUnitario, DataVenda VALUES (4, 5, 3, 35.00, '2023-06-01');
     ```
 24. Corrija a seguinte consulta:
     ```sql
