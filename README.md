@@ -1,5 +1,3 @@
-Claro, vamos adicionar exemplos reais para cada módulo e tópico, ilustrando como os conceitos são aplicados no mundo real.
-
 ## Curso Completo de SQL Server
 
 ### Módulo 1: Introdução ao SQL Server
